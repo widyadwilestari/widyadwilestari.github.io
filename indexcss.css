@@ -1,0 +1,16 @@
+h1{
+	color: purple; 
+	margin-top: 20px;
+}
+p{
+	color: tan
+}
+ul{
+	color: salmon
+}
+img{
+	border-radius: 75px; 
+	padding: 20px; 
+	width: 395px;
+	height: 209px;
+}
